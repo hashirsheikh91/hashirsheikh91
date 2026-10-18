@@ -18,7 +18,7 @@ Hi 👋, I'm Hashir Sheikh<br><br>🎓 Student | 💻 Aspiring Software Develope
 ---
 [![](https://komarev.com/ghpvc/?username=hashirsheikh91&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **hashirsheikh91/hashirsheikh91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
